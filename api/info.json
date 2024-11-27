@@ -1,0 +1,51 @@
+{
+  "cards": [
+    {
+      "_id": 1,
+      "name": "Income",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "_id": 2,
+      "name": "Expenses",
+      "icon": "bi bi-currency-dollar",
+      "amount": 3246,
+      "percentage": 0.19,
+      "active": true
+    },
+    {
+      "_id": 3,
+      "name": "Return",
+      "icon": "bi bi-people",
+      "amount": 145,
+      "percentage": 0.11,
+      "active": true
+    }
+  ],
+  "topselling": [
+    {
+      "_id": 1,
+      "preview": "../web-anesi/src/images/topSelling/DRINKS.png",
+      "name": "NOODLES",
+      "price": 84,
+      "sold": 90
+    },
+    {
+      "_id": 2,
+      "preview": "../web-anesi/src/images/topSelling/DRINKS.png",
+      "name": "NOODLES",
+      "price": 84,
+      "sold": 90
+    },
+    {
+      "_id": 3,
+      "preview": "../web-anesi/src/images/topSelling/DRINKS.png",
+      "name": "NOODLES",
+      "price": 84,
+      "sold": 90
+    }
+  ]
+}
